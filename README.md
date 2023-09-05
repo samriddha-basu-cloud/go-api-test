@@ -1,7 +1,7 @@
 # User Management API
 
-![Go](https://img.shields.io/badge/Go-1.16-blue?logo=go)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)
+![Go](https://img.shields.io/badge/Go-1.18-blue?logo=go)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green?logo=mongodb)
 
 A simple User Management API built in Go with MongoDB integration.
 ---
